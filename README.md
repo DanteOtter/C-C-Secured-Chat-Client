@@ -1,5 +1,15 @@
 # C/c++ Data Secured Chat Client
 
+---Framework---
+UI:
+  Managed through the use of QT(Major Verion 6).
+
+Sockets:
+  Through the OpenSSL libraries.
+  
+AES:
+  Relies on OpenSSL Crypto library.
+
 
 ---Modules---
 
